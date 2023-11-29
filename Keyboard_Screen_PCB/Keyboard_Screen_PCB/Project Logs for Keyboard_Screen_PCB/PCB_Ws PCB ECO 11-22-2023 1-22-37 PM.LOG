@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=A6 Pin=SW2-3
+Removed Pin From Net: NetName=A1 Pin=SW2-4
+Removed Pin From Net: NetName=A6 Pin=SW3-3
+Removed Pin From Net: NetName=A6 Pin=SW4-3
+Removed Pin From Net: NetName=A3 Pin=SW4-4
+Removed Pin From Net: NetName=A6 Pin=SW5-3
+Removed Pin From Net: NetName=A4 Pin=SW5-4
+Removed Pin From Net: NetName=A7 Pin=SW6-3
+Removed Pin From Net: NetName=A7 Pin=SW7-3
+Removed Pin From Net: NetName=A2 Pin=SW7-4
+Removed Pin From Net: NetName=A7 Pin=SW8-3
+Removed Pin From Net: NetName=A3 Pin=SW8-4
+Removed Pin From Net: NetName=A7 Pin=SW9-3
+Removed Pin From Net: NetName=A4 Pin=SW9-4
+Removed Pin From Net: NetName=A7 Pin=SW10-3
+Removed Pin From Net: NetName=A5 Pin=SW10-4
+Change Component Footprint: Designator=SW2 Old Footprint=SW2-SMD New Footprint=SW-DIP1-1
+Change Component Footprint: Designator=SW3 Old Footprint=SW2-SMD New Footprint=SW-DIP1-1
+Change Component Footprint: Designator=SW4 Old Footprint=SW2-SMD New Footprint=SW-DIP1-1
+Change Component Footprint: Designator=SW5 Old Footprint=SW2-SMD New Footprint=SW-DIP1-1
+Change Component Footprint: Designator=SW6 Old Footprint=SW2-SMD New Footprint=SW-DIP1-1
+Change Component Footprint: Designator=SW7 Old Footprint=SW2-SMD New Footprint=SW-DIP1-1
+Change Component Footprint: Designator=SW8 Old Footprint=SW2-SMD New Footprint=SW-DIP1-1
+Change Component Footprint: Designator=SW9 Old Footprint=SW2-SMD New Footprint=SW-DIP1-1
+Change Component Footprint: Designator=SW10 Old Footprint=SW2-SMD New Footprint=SW-DIP1-1
+Change component parameters: Designator = "SW2"; Footprint = "SW-DIP1-1"; UniqueID = "\XPOOPCBA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW3"; Footprint = "SW-DIP1-1"; UniqueID = "\ECQSOFMQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW4"; Footprint = "SW-DIP1-1"; UniqueID = "\WNUCTUYH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW5"; Footprint = "SW-DIP1-1"; UniqueID = "\CIRHQOXM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW6"; Footprint = "SW-DIP1-1"; UniqueID = "\YXWAERDZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW7"; Footprint = "SW-DIP1-1"; UniqueID = "\UUFUSIPJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW8"; Footprint = "SW-DIP1-1"; UniqueID = "\MSNBTBNX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW9"; Footprint = "SW-DIP1-1"; UniqueID = "\IOYEWUTV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW10"; Footprint = "SW-DIP1-1"; UniqueID = "\KLQKARVL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A1 Pin=SW2-1
+Added Pin To Net: NetName=A2 Pin=SW3-1
+Added Pin To Net: NetName=A6 Pin=SW3-2
+Added Pin To Net: NetName=A3 Pin=SW4-1
+Added Pin To Net: NetName=A6 Pin=SW4-2
+Added Pin To Net: NetName=A4 Pin=SW5-1
+Added Pin To Net: NetName=A1 Pin=SW6-1
+Added Pin To Net: NetName=A7 Pin=SW6-2
+Added Pin To Net: NetName=A2 Pin=SW7-1
+Added Pin To Net: NetName=A7 Pin=SW7-2
+Added Pin To Net: NetName=A3 Pin=SW8-1
+Added Pin To Net: NetName=A7 Pin=SW8-2
+Added Pin To Net: NetName=A4 Pin=SW9-1
+Added Pin To Net: NetName=A7 Pin=SW10-2
+Added Room: Name=Schematic_WS

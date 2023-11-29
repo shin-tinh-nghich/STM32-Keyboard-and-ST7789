@@ -1,0 +1,26 @@
+Removed Member From Class: ClassName=Schematic_WS Member=U1
+Added Component: Designator=U?(STM32F103C8T6-BLUEPILL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Contributor"; Value = "Johan_a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "STM32Duino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "STM32F103C8T6_Development_Board copy"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A2 Pin=U?-7
+Added Pin To Net: NetName=A3 Pin=U?-8
+Added Pin To Net: NetName=A6 Pin=U?-11
+Added Pin To Net: NetName=A7 Pin=U?-12
+Added Pin To Net: NetName=PB0 Pin=U?-13
+Added Pin To Net: NetName=GND Pin=U?-20
+Added Pin To Net: NetName=SCL Pin=U?-21
+Added Pin To Net: NetName=SDA Pin=U?-22
+Added Pin To Net: NetName=RES Pin=U?-23
+Added Pin To Net: NetName=DC Pin=U?-24
+Added Pin To Net: NetName=BLK Pin=U?-31
+Added Pin To Net: NetName=PB5 Pin=U?-33
+Added Pin To Net: NetName=PB6 Pin=U?-34
+Added Pin To Net: NetName=PB7 Pin=U?-35
+Added Pin To Net: NetName=VCC Pin=U?-38
+Added Pin To Net: NetName=GND Pin=U?-39
+Added Pin To Net: NetName=A0 Pin=U?-5
+Added Net: Name=A0
+Added Member To Class: ClassName=Schematic_WS Member=Component U? STM32F103C8T6_Development_Board copy

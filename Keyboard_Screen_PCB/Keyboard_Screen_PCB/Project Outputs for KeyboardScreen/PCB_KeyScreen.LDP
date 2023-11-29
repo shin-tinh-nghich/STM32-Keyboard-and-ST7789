@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Wild Boar Store\Desktop\USB_STM32_Project\Keyboard_Screen_PCB\Keyboard_Screen_PCB\PCB_KeyScreen.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_keyscreen.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=pcb_keyscreen-rectholes.txt|DrillLayers=gtl,gbl

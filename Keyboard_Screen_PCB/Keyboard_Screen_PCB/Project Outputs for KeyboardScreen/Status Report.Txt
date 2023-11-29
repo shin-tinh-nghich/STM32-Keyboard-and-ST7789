@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [KeyboardScreen.PrjPcb]
+   Generated File[PCB_KeyScreen.TXT]
+   Generated File[PCB_KeyScreen-RectHoles.TXT]
+   Generated File[PCB_KeyScreen.LDP]
+   Generated File[PCB_KeyScreen.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 5:31:38 PM On 11/23/2023

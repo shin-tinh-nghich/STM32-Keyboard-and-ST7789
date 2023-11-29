@@ -1,0 +1,315 @@
+Added Component: Designator=C1(JP7-D1T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613007143121"; VariantName = "[No Variations]"
+Added Component: Designator=Cx1(CN-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cx2(CN-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cx3(CN-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cx4(CN-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cx5(CN-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cx6(CN-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cx7(CN-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cx8(CN-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cx9(CN-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cx10(CN-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cx11(CN-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED_WS2812-SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/WS2812-SMD/Jameco+Valuepro/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Jameco Valuepro"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WS2812-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WS2812-SMD/Jameco+Valuepro/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED_WS2812-SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/WS2812-SMD/Jameco+Valuepro/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Jameco Valuepro"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WS2812-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WS2812-SMD/Jameco+Valuepro/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D3(LED_WS2812-SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/WS2812-SMD/Jameco+Valuepro/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Jameco Valuepro"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WS2812-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WS2812-SMD/Jameco+Valuepro/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D4(LED_WS2812-SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/WS2812-SMD/Jameco+Valuepro/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Jameco Valuepro"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WS2812-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WS2812-SMD/Jameco+Valuepro/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D5(LED_WS2812-SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/WS2812-SMD/Jameco+Valuepro/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Jameco Valuepro"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WS2812-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WS2812-SMD/Jameco+Valuepro/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D6(LED_WS2812-SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/WS2812-SMD/Jameco+Valuepro/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Jameco Valuepro"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WS2812-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WS2812-SMD/Jameco+Valuepro/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D7(LED_WS2812-SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/WS2812-SMD/Jameco+Valuepro/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Jameco Valuepro"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WS2812-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WS2812-SMD/Jameco+Valuepro/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D8(LED_WS2812-SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/WS2812-SMD/Jameco+Valuepro/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Jameco Valuepro"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WS2812-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WS2812-SMD/Jameco+Valuepro/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D9(LED_WS2812-SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/WS2812-SMD/Jameco+Valuepro/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Jameco Valuepro"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WS2812-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WS2812-SMD/Jameco+Valuepro/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED-5-BLUE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(ROTARY_ENC_PLAIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Contributor"; Value = "SparkFun"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "ROTARTY_ENCODER"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(SW2-SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Button chip 4 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW3(SW2-SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Button chip 4 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW4(SW2-SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Button chip 4 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW5(SW2-SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Button chip 4 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW6(SW2-SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Button chip 4 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW7(SW2-SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Button chip 4 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW8(SW2-SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Button chip 4 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW9(SW2-SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Button chip 4 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW10(SW2-SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Button chip 4 pin"; VariantName = "[No Variations]"
+Added Component: Designator=U1(STM32F103C8T6-BLUEPILL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Contributor"; Value = "Johan_a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "STM32Duino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "STM32F103C8T6_Development_Board copy"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A1 Pin=SW2-4
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=SW7-4
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=SW4-4
+Added Pin To Net: NetName=A3 Pin=SW8-4
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=SW5-4
+Added Pin To Net: NetName=A4 Pin=SW9-4
+Added Net: Name=A4
+Added Pin To Net: NetName=A5 Pin=SW1-SW-
+Added Pin To Net: NetName=A5 Pin=SW10-4
+Added Net: Name=A5
+Added Pin To Net: NetName=A6 Pin=SW1-SW+
+Added Pin To Net: NetName=A6 Pin=SW2-3
+Added Pin To Net: NetName=A6 Pin=SW3-3
+Added Pin To Net: NetName=A6 Pin=SW4-3
+Added Pin To Net: NetName=A6 Pin=SW5-3
+Added Net: Name=A6
+Added Pin To Net: NetName=A7 Pin=SW6-3
+Added Pin To Net: NetName=A7 Pin=SW7-3
+Added Pin To Net: NetName=A7 Pin=SW8-3
+Added Pin To Net: NetName=A7 Pin=SW9-3
+Added Pin To Net: NetName=A7 Pin=SW10-3
+Added Net: Name=A7
+Added Pin To Net: NetName=BLK Pin=C1-7
+Added Net: Name=BLK
+Added Pin To Net: NetName=DC Pin=C1-6
+Added Net: Name=DC
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=Cx1-1
+Added Pin To Net: NetName=GND Pin=Cx2-1
+Added Pin To Net: NetName=GND Pin=Cx3-1
+Added Pin To Net: NetName=GND Pin=Cx4-1
+Added Pin To Net: NetName=GND Pin=Cx5-1
+Added Pin To Net: NetName=GND Pin=Cx6-1
+Added Pin To Net: NetName=GND Pin=Cx7-1
+Added Pin To Net: NetName=GND Pin=Cx8-1
+Added Pin To Net: NetName=GND Pin=Cx9-1
+Added Pin To Net: NetName=GND Pin=Cx10-1
+Added Pin To Net: NetName=GND Pin=Cx11-1
+Added Pin To Net: NetName=GND Pin=D1-6
+Added Pin To Net: NetName=GND Pin=D2-6
+Added Pin To Net: NetName=GND Pin=D3-6
+Added Pin To Net: NetName=GND Pin=D4-6
+Added Pin To Net: NetName=GND Pin=D5-6
+Added Pin To Net: NetName=GND Pin=D6-6
+Added Pin To Net: NetName=GND Pin=D7-6
+Added Pin To Net: NetName=GND Pin=D8-6
+Added Pin To Net: NetName=GND Pin=D9-6
+Added Pin To Net: NetName=GND Pin=SW1-C
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=D2-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=D3-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=D4-2
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=D5-2
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=D6-2
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=D7-2
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=D8-2
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_1 Pin=D9-2
+Added Net: Name=NetD8_1
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-2
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=PB0 Pin=LED1-2
+Added Net: Name=PB0
+Added Pin To Net: NetName=PB5 Pin=D1-2
+Added Net: Name=PB5
+Added Pin To Net: NetName=PB6 Pin=Cx1-2
+Added Pin To Net: NetName=PB6 Pin=R2-2
+Added Pin To Net: NetName=PB6 Pin=SW1-B
+Added Net: Name=PB6
+Added Pin To Net: NetName=PB7 Pin=Cx2-2
+Added Pin To Net: NetName=PB7 Pin=R3-2
+Added Pin To Net: NetName=PB7 Pin=SW1-A
+Added Net: Name=PB7
+Added Pin To Net: NetName=RES Pin=C1-5
+Added Net: Name=RES
+Added Pin To Net: NetName=SCL Pin=C1-3
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=C1-4
+Added Net: Name=SDA
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=Cx3-2
+Added Pin To Net: NetName=VCC Pin=Cx4-2
+Added Pin To Net: NetName=VCC Pin=Cx5-2
+Added Pin To Net: NetName=VCC Pin=Cx6-2
+Added Pin To Net: NetName=VCC Pin=Cx7-2
+Added Pin To Net: NetName=VCC Pin=Cx8-2
+Added Pin To Net: NetName=VCC Pin=Cx9-2
+Added Pin To Net: NetName=VCC Pin=Cx10-2
+Added Pin To Net: NetName=VCC Pin=Cx11-2
+Added Pin To Net: NetName=VCC Pin=D1-3
+Added Pin To Net: NetName=VCC Pin=D2-3
+Added Pin To Net: NetName=VCC Pin=D3-3
+Added Pin To Net: NetName=VCC Pin=D4-3
+Added Pin To Net: NetName=VCC Pin=D5-3
+Added Pin To Net: NetName=VCC Pin=D7-3
+Added Pin To Net: NetName=VCC Pin=D8-3
+Added Pin To Net: NetName=VCC Pin=D9-3
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=VCC Pin=R2-1
+Added Pin To Net: NetName=VCC Pin=R3-1
+Added Net: Name=VCC
+Added Class: Name=Schematic_WS
+Added Room: Name=Schematic_WS
